@@ -9,6 +9,7 @@ Quiero utilizar las siguientes tecnologías:
 - [[MySQL]] - Base de datos relacional
 - [[MongoDB]] - Base de datos no relacional
 - [[Redis]] - Base de datos no relacional (para el cache o cookies????)
+- [[Git]] - Control de versiones
 
 También quiero utilizar [[AWS]] como la tecnología en la nube para desplegar estos servicios. Así mismo también me parece una buena idea utilizar [[Docker]] para no sé, cuando el proyecto este listo pueda despegarlo otra persona y no tenga problemas de utilizarlo.
 

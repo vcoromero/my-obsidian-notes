@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfcd30aba42b8b12",
-        "type": "tabs",
-        "dimension": 55.52030456852792,
-        "children": [
-          {
-            "id": "ea5cd09f80d5aedb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Projects/TUTSYS 2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5002f0eaef94ad79",
         "type": "tabs",
-        "dimension": 44.47969543147208,
         "children": [
           {
-            "id": "2574ba73430eb7ff",
+            "id": "c22c18b58378fc88",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Projects/TUTSYS 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Projects/TUTSYS 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/Projects/TUTSYS 2.0.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,13 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea5cd09f80d5aedb",
+  "active": "c22c18b58378fc88",
   "lastOpenFiles": [
+    "Bucket/Subir archivos al repositorio.md",
+    "Bucket/Iniciar un nuevo repositorio git.md",
+    "Bucket/Git.md",
+    "Dev/Projects/TUTSYS 2.0.md",
+    "Untitled.md",
     "Dev/Learnings/Want to get to know.md",
     "Files",
     "Bucket",
-    "Dev/Projects/TUTSYS 2.0.md",
-    "Untitled.md",
     "Dev/Learnings/NVIM.md",
     "Dev/Learnings",
     "Dev/Database management/Redis.md",

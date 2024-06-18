@@ -1,4 +1,6 @@
 {
   "vimMode": false,
-  "attachmentFolderPath": "Bucket"
+  "attachmentFolderPath": "Bucket",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Bucket"
 }
