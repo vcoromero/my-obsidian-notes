@@ -1,0 +1,1 @@
+Sé muy poco sobre la tecnología, necesito mejorar mis skills.

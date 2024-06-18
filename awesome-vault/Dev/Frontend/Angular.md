@@ -1,0 +1,1 @@
+Necesito mejorar un poquito más mis skills, siento que no estoy muy muy estancado en lo básico y eso que aún me cuesta poquito comprender conceptos.

@@ -1,0 +1,1 @@
+Tengo que aprender sobre React, veo que es uno de los frameworks (aunque dicen que más que una framework, es una librería) más utilizados en la actualidad y tal vez me toque aprender NuxtJS(si es que no me ando confundiendo) que tiene relación con React.

@@ -1,0 +1,1 @@
+He aprendido muy poquito sobre base de datos no relacionales, siento que debo aprender más porque entiendo son mas ágiles y rápidas que una base de datos relacional.

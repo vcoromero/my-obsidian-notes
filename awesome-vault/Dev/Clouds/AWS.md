@@ -1,0 +1,1 @@
+Aprendí lo básico en un tutorial de GO pero quiero mejorar esta skill para tener mayor entendimiento de lo que aprendí.

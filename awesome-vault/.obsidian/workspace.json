@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "00ecbcf7fa980259",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfcd30aba42b8b12",
+        "type": "tabs",
+        "dimension": 55.52030456852792,
+        "children": [
+          {
+            "id": "ea5cd09f80d5aedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Projects/TUTSYS 2.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5002f0eaef94ad79",
+        "type": "tabs",
+        "dimension": 44.47969543147208,
+        "children": [
+          {
+            "id": "2574ba73430eb7ff",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a8a0c81cf092723",
+    "type": "split",
+    "children": [
+      {
+        "id": "b595a5d1e8e8917b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cfe1f043de60e7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2da0e1e27f65d902",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e0166e676220616",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef3a124726add9d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "45aac8f8cfcde305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0701e855f38ceaee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dev/Projects/TUTSYS 2.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "607e29dc7b954133",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dev/Projects/TUTSYS 2.0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a9370dc1704458a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2e09959a9b55308",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dev/Projects/TUTSYS 2.0.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ea5cd09f80d5aedb",
+  "lastOpenFiles": [
+    "Dev/Learnings/Want to get to know.md",
+    "Files",
+    "Bucket",
+    "Dev/Projects/TUTSYS 2.0.md",
+    "Untitled.md",
+    "Dev/Learnings/NVIM.md",
+    "Dev/Learnings",
+    "Dev/Database management/Redis.md",
+    "Dev/Containers/Docker.md",
+    "Dev/Containers",
+    "Dev/Clouds",
+    "Dev/Clouds/AWS.md",
+    "Dev/Backend/NestJS.md",
+    "Dev/Backend/Go.md",
+    "Dev/Backend/ExpressJS.md",
+    "Dev/Backend/Unit test.md",
+    "Dev/Frontend/React.md",
+    "Dev/Backend",
+    "Dev/Projects",
+    "Dev/Frontend",
+    "Dev/Database management",
+    "Data bases management",
+    "Dev/Database management/MongoDB.md",
+    "Dev/Database management/MySQL.md",
+    "Dev/Frontend/Angular.md",
+    "[React.md",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}

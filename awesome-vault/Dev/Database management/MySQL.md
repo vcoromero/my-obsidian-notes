@@ -1,0 +1,2 @@
+He dejado un poco en el olvido todo lo relacionados a base de datos relacionales, quiero nuevamente fortalecer lo que ya sabía y quiero aprender lo que no he realizado como lo son los procedimientos almacenados.
+Probablemente haga un listado con más cosas que debería aprender.
