@@ -3,6 +3,7 @@ Quiero realizar un proyecto que tenga las siguientes estructuras para recordar y
 Quiero utilizar las siguientes tecnologías:
 
 - [[React]] - Frotend (Tal vez luego realizar lo mismo con [[Angular]])
+- [[NodeJS]] - Entorno de ejecución JS
 - [[NestJS]] - Backend/interceptor
 - [[ExpressJS]] - Backend/interceptor
 - [[Go]] - Backend principal

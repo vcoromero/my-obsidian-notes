@@ -2,5 +2,7 @@
   "vimMode": false,
   "attachmentFolderPath": "Bucket",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Bucket"
+  "newFileFolderPath": "Bucket",
+  "livePreview": true,
+  "alwaysUpdateLinks": true
 }

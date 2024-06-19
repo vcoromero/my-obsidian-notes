@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5002f0eaef94ad79",
+        "id": "921067a60001ede7",
         "type": "tabs",
         "children": [
           {
-            "id": "c22c18b58378fc88",
+            "id": "2422d52b34305eb4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Version Control/Iniciar un nuevo repositorio git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "right": {
     "id": "ef3a124726add9d3",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/Version Control/Iniciar un nuevo repositorio git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/Version Control/Iniciar un nuevo repositorio git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/Version Control/Iniciar un nuevo repositorio git.md"
+              }
             }
           }
         ]
@@ -138,38 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c22c18b58378fc88",
+  "active": "2422d52b34305eb4",
   "lastOpenFiles": [
-    "Bucket/Subir archivos al repositorio.md",
-    "Bucket/Iniciar un nuevo repositorio git.md",
-    "Bucket/Git.md",
+    "Dev/Backend/Go/Go.md",
+    "Dev/Backend/Go/Para crear un proyecto en Go.md",
+    "Dev/Backend/Go",
+    "Dev/Projects/GYMSTRATOR/GYMSTRATOR.md",
+    "Dev/Projects/GYMSTRATOR/Entidades",
+    "Dev/Projects/GYMSTRATOR/Entidades/Usuarios.md",
+    "Dev/Projects/GYMSTRATOR/Fases/Entidades y relaciones para la fase 1.md",
+    "Dev/Projects/GYMSTRATOR/Fases/Fase 2 - Corte de Caja.md",
+    "Dev/Projects/GYMSTRATOR/Fases/Fase 3 - Funcionalidades Avanzadas.md",
+    "Dev/Projects/GYMSTRATOR/Fases/Fase 1 - Funcionalidades Básicas.md",
+    "Dev/Projects/GYMSTRATOR/Fases",
+    "Files/gym_management_er_diagram_updated_4.png",
+    "Files/gym_management_er_diagram_updated_3.png",
+    "Dev/Projects/GYMSTRATOR/Entidades/Funciones por rol.md",
+    "Dev/Projects/GYMSTRATOR/Entidades/Membresías.md",
+    "Dev/Projects/GYMSTRATOR/Entidades/Contrataciones y Renovaciones.md",
+    "Dev/Projects/GYMSTRATOR/Entidades/Bitácora de ingresos.md",
+    "Bucket/Bitácora de Ingresos.md",
+    "Dev/Learnings/RBAC.md",
+    "Dev/Version Control/Git.md",
     "Dev/Projects/TUTSYS 2.0.md",
-    "Untitled.md",
+    "Dev/Projects/GYMSTRATOR/Usuarios/Administrador.md",
+    "Dev/Projects/GYMSTRATOR/Usuarios/Entrenador.md",
+    "Dev/Projects/GYMSTRATOR/Usuarios/Socio.md",
+    "Dev/Projects/GYMSTRATOR/Usuarios/SuperUser.md",
+    "Dev/Projects/GYMSTRATOR/Usuarios/Visitante.md",
+    "Dev/Projects/GYMSTRATOR/Usuarios/Empleado.md",
+    "Root",
+    "Dev/Projects/GYMSTRATOR/Usuarios",
+    "Dev/Projects/GYMSTRATOR",
     "Dev/Learnings/Want to get to know.md",
+    "Dev/Backend/NodeJS.md",
+    "Dev/Version Control",
+    "Dev/Learnings/NVIM.md",
+    "Dev/Version Control/Subir archivos al repositorio.md",
     "Files",
     "Bucket",
-    "Dev/Learnings/NVIM.md",
     "Dev/Learnings",
-    "Dev/Database management/Redis.md",
-    "Dev/Containers/Docker.md",
-    "Dev/Containers",
-    "Dev/Clouds",
-    "Dev/Clouds/AWS.md",
-    "Dev/Backend/NestJS.md",
-    "Dev/Backend/Go.md",
-    "Dev/Backend/ExpressJS.md",
-    "Dev/Backend/Unit test.md",
-    "Dev/Frontend/React.md",
-    "Dev/Backend",
-    "Dev/Projects",
-    "Dev/Frontend",
-    "Dev/Database management",
-    "Data bases management",
-    "Dev/Database management/MongoDB.md",
-    "Dev/Database management/MySQL.md",
-    "Dev/Frontend/Angular.md",
-    "[React.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
