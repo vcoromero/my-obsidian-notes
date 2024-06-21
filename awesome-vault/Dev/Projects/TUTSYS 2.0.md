@@ -6,7 +6,7 @@ Quiero utilizar las siguientes tecnologías:
 - [[NodeJS]] - Entorno de ejecución JS
 - [[NestJS]] - Backend/interceptor
 - [[ExpressJS]] - Backend/interceptor
-- [[Go]] - Backend principal
+- [[Aprendizaje Go]] - Backend principal
 - [[MySQL]] - Base de datos relacional
 - [[MongoDB]] - Base de datos no relacional
 - [[Redis]] - Base de datos no relacional (para el cache o cookies????)

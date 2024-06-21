@@ -23,3 +23,12 @@ También existe una manera de agregar todos los archivos y realizar el commit al
 git commit -am "my message"
 ```
 *Esto sólo funciona con los archivos que ya has trackeado anteriormente, si hay archivos nuevos estarás forzado a utilizar a agregarlos mediante alguno de los primeros pasos*
+
+
+Restaurar cambios en un archivo de git:
+
+```bash
+git restore /ruta/nombre
+# o si es en raiz del proyecto
+git restore nombre
+```

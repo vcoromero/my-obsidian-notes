@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "921067a60001ede7",
+        "id": "da43a16b913bdc8a",
         "type": "tabs",
         "children": [
           {
-            "id": "2422d52b34305eb4",
+            "id": "93c834bbb0418aaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Version Control/Iniciar un nuevo repositorio git.md",
+                "file": "Dev/Backend/Go/Aprendizaje Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f79cbbcce0cfe854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Backend/Go/Aprendizaje Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b85dfe58c354e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Backend/Go/Uso de mux para router.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 267.5
   },
   "right": {
     "id": "ef3a124726add9d3",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Version Control/Iniciar un nuevo repositorio git.md",
+                "file": "Dev/Backend/Go/Aprendizaje Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Version Control/Iniciar un nuevo repositorio git.md",
+                "file": "Dev/Backend/Go/Aprendizaje Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Version Control/Iniciar un nuevo repositorio git.md"
+                "file": "Dev/Backend/Go/Aprendizaje Go.md"
               }
             }
           }
@@ -146,43 +171,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2422d52b34305eb4",
+  "active": "f79cbbcce0cfe854",
   "lastOpenFiles": [
-    "Dev/Backend/Go/Go.md",
-    "Dev/Backend/Go/Para crear un proyecto en Go.md",
-    "Dev/Backend/Go",
-    "Dev/Projects/GYMSTRATOR/GYMSTRATOR.md",
-    "Dev/Projects/GYMSTRATOR/Entidades",
-    "Dev/Projects/GYMSTRATOR/Entidades/Usuarios.md",
+    "Dev/Backend/Go/Uso de mux para router.md",
+    "Dev/Backend/Go/Utilizar air para reconstruir y reiniciar la app Go.md",
+    "Dev/Backend/Go/Uso de context.md",
+    "Dev/Backend/Go/Utilizar MySQL en Go.md",
+    "Dev/Backend/Go/Aprendizaje Go.md",
+    "Dev/Backend/Go/Crear un proyecto en Go.md",
     "Dev/Projects/GYMSTRATOR/Fases/Entidades y relaciones para la fase 1.md",
-    "Dev/Projects/GYMSTRATOR/Fases/Fase 2 - Corte de Caja.md",
-    "Dev/Projects/GYMSTRATOR/Fases/Fase 3 - Funcionalidades Avanzadas.md",
+    "Dev/Projects/GYMSTRATOR/GYMSTRATOR.md",
+    "Dev/Projects/GYMSTRATOR/Entidades/Funcionalidades.md",
     "Dev/Projects/GYMSTRATOR/Fases/Fase 1 - Funcionalidades Básicas.md",
-    "Dev/Projects/GYMSTRATOR/Fases",
-    "Files/gym_management_er_diagram_updated_4.png",
-    "Files/gym_management_er_diagram_updated_3.png",
-    "Dev/Projects/GYMSTRATOR/Entidades/Funciones por rol.md",
+    "Dev/Projects/GYMSTRATOR/Entidades/Roles.md",
+    "Dev/Projects/GYMSTRATOR/Entidades/Usuarios.md",
     "Dev/Projects/GYMSTRATOR/Entidades/Membresías.md",
     "Dev/Projects/GYMSTRATOR/Entidades/Contrataciones y Renovaciones.md",
     "Dev/Projects/GYMSTRATOR/Entidades/Bitácora de ingresos.md",
-    "Bucket/Bitácora de Ingresos.md",
-    "Dev/Learnings/RBAC.md",
+    "Dev/Containers/Docker.md",
+    "Dev/Containers/Manejo de volúmenes.md",
+    "Dev/Learnings/Alacritty.md",
     "Dev/Version Control/Git.md",
-    "Dev/Projects/TUTSYS 2.0.md",
-    "Dev/Projects/GYMSTRATOR/Usuarios/Administrador.md",
-    "Dev/Projects/GYMSTRATOR/Usuarios/Entrenador.md",
-    "Dev/Projects/GYMSTRATOR/Usuarios/Socio.md",
-    "Dev/Projects/GYMSTRATOR/Usuarios/SuperUser.md",
-    "Dev/Projects/GYMSTRATOR/Usuarios/Visitante.md",
-    "Dev/Projects/GYMSTRATOR/Usuarios/Empleado.md",
+    "Dev/Version Control/Stash.md",
+    "Dev/Version Control/Subir archivos al repositorio.md",
+    "Dev/Version Control/Rebase.md",
+    "Dev/Version Control/Crear o eliminar una rama local y remota.md",
+    "Dev/Version Control/Iniciar un nuevo repositorio git.md",
+    "Dev/Backend/Go",
+    "Dev/Projects/GYMSTRATOR/Entidades",
+    "Dev/Projects/GYMSTRATOR/Fases/Fase 2 - Corte de Caja.md",
+    "Dev/Projects/GYMSTRATOR/Fases/Fase 3 - Funcionalidades Avanzadas.md",
+    "Dev/Projects/GYMSTRATOR/Fases",
+    "Files/gym_management_er_diagram_updated_4.png",
+    "Files/gym_management_er_diagram_updated_3.png",
     "Root",
     "Dev/Projects/GYMSTRATOR/Usuarios",
     "Dev/Projects/GYMSTRATOR",
-    "Dev/Learnings/Want to get to know.md",
-    "Dev/Backend/NodeJS.md",
     "Dev/Version Control",
-    "Dev/Learnings/NVIM.md",
-    "Dev/Version Control/Subir archivos al repositorio.md",
     "Files",
     "Bucket",
     "Dev/Learnings",

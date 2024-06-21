@@ -101,5 +101,3 @@ func main() {
     r.Run() // por defecto, ejecuta en :8080
 }
 ```
-
-Espero que estos pasos te ayuden a comenzar tu proyecto en Go. Si tienes más preguntas o necesitas ayuda adicional, ¡déjame saber!
