@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "da43a16b913bdc8a",
+        "id": "facaa18593b745a4",
         "type": "tabs",
         "children": [
           {
-            "id": "93c834bbb0418aaf",
+            "id": "32d6a10c5cc136d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Backend/Go/Aprendizaje Go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f79cbbcce0cfe854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Backend/Go/Aprendizaje Go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b85dfe58c354e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Backend/Go/Uso de mux para router.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Backend/Go/Aprendizaje Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Backend/Go/Aprendizaje Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/Backend/Go/Aprendizaje Go.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,24 +138,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f79cbbcce0cfe854",
+  "active": "32d6a10c5cc136d9",
   "lastOpenFiles": [
+    "Dev/Learnings/Want to get to know.md",
+    "Dev/Learnings/Configurar teclado Lily58.md",
     "Dev/Backend/Go/Uso de mux para router.md",
+    "Dev/Projects/GYMSTRATOR/Entidades/Roles.md",
+    "Dev/Containers/Docker.md",
+    "Dev/Backend/Go/Aprendizaje Go.md",
     "Dev/Backend/Go/Utilizar air para reconstruir y reiniciar la app Go.md",
     "Dev/Backend/Go/Uso de context.md",
     "Dev/Backend/Go/Utilizar MySQL en Go.md",
-    "Dev/Backend/Go/Aprendizaje Go.md",
     "Dev/Backend/Go/Crear un proyecto en Go.md",
     "Dev/Projects/GYMSTRATOR/Fases/Entidades y relaciones para la fase 1.md",
     "Dev/Projects/GYMSTRATOR/GYMSTRATOR.md",
     "Dev/Projects/GYMSTRATOR/Entidades/Funcionalidades.md",
     "Dev/Projects/GYMSTRATOR/Fases/Fase 1 - Funcionalidades Básicas.md",
-    "Dev/Projects/GYMSTRATOR/Entidades/Roles.md",
     "Dev/Projects/GYMSTRATOR/Entidades/Usuarios.md",
     "Dev/Projects/GYMSTRATOR/Entidades/Membresías.md",
     "Dev/Projects/GYMSTRATOR/Entidades/Contrataciones y Renovaciones.md",
     "Dev/Projects/GYMSTRATOR/Entidades/Bitácora de ingresos.md",
-    "Dev/Containers/Docker.md",
     "Dev/Containers/Manejo de volúmenes.md",
     "Dev/Learnings/Alacritty.md",
     "Dev/Version Control/Git.md",
@@ -199,8 +168,6 @@
     "Dev/Version Control/Iniciar un nuevo repositorio git.md",
     "Dev/Backend/Go",
     "Dev/Projects/GYMSTRATOR/Entidades",
-    "Dev/Projects/GYMSTRATOR/Fases/Fase 2 - Corte de Caja.md",
-    "Dev/Projects/GYMSTRATOR/Fases/Fase 3 - Funcionalidades Avanzadas.md",
     "Dev/Projects/GYMSTRATOR/Fases",
     "Files/gym_management_er_diagram_updated_4.png",
     "Files/gym_management_er_diagram_updated_3.png",
