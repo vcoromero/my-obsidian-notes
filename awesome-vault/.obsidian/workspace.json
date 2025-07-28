@@ -4,18 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "facaa18593b745a4",
+        "id": "f9da71513acdc334",
         "type": "tabs",
         "children": [
           {
-            "id": "32d6a10c5cc136d9",
+            "id": "0993f31493908254",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Learnings/Actualizar cursor ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Actualizar cursor ai"
+            }
+          },
+          {
+            "id": "51665fd7831c5d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Falabella/Falabella DBs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Falabella DBs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,14 +84,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 282.5
   },
   "right": {
     "id": "ef3a124726add9d3",
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dev/Falabella/Kong - Api gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kong - Api gateway"
             }
           },
           {
@@ -97,9 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dev/Falabella/Kong - Api gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kong - Api gateway"
             }
           },
           {
@@ -109,8 +143,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +156,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dev/Falabella/Kong - Api gateway.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kong - Api gateway"
             }
           }
         ]
@@ -138,34 +183,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32d6a10c5cc136d9",
+  "active": "51665fd7831c5d25",
   "lastOpenFiles": [
+    "Dev/Falabella/Contexto BFF.md",
+    "Dev/Version Control/Crear o eliminar una rama local y remota.md",
+    "Dev/Learnings/Actualizar cursor ai.md",
+    "Dev/Falabella/Product-manager nullplatform.md",
+    "Dev/Falabella/Rewards-card status.md",
+    "Dev/Falabella/Refinamiento Tarjeta Garantizada (backend).md",
+    "Dev/Falabella/Pruebas producto v2.md",
+    "Dev/Falabella/MRs para deploy QA de la rewards-card.md",
+    "Dev/Falabella/Listado de APIs.md",
+    "Dev/Falabella/Kong - Api gateway.md",
+    "Dev/Falabella/Falabella DBs.md",
+    "Dev/Falabella/Comandos para deshabilitar ipv4.md",
+    "Dev/Falabella/Caso client-manager.md",
+    "Dev/Falabella/URLs vault.md",
+    "Dev/Learnings/Alacritty.md",
+    "Dev/Falabella/Avances durante el ultimo mes.md",
+    "Dev/Falabella/APIs a nullplatform/Migracion de una API a nullplatform.md",
+    "Dev/Falabella/APIs a nullplatform/MRs migracion Login.md",
+    "Dev/Falabella/APIs a nullplatform/Refinamiento Client-manager.md",
+    "Dev/Learnings/Cursos.md",
+    "Dev/Projects/GYMSTRATOR/Fases/Entidades y relaciones para la fase 1.md",
     "Dev/Learnings/Want to get to know.md",
     "Dev/Learnings/Configurar teclado Lily58.md",
-    "Dev/Backend/Go/Uso de mux para router.md",
-    "Dev/Projects/GYMSTRATOR/Entidades/Roles.md",
-    "Dev/Containers/Docker.md",
-    "Dev/Backend/Go/Aprendizaje Go.md",
-    "Dev/Backend/Go/Utilizar air para reconstruir y reiniciar la app Go.md",
-    "Dev/Backend/Go/Uso de context.md",
-    "Dev/Backend/Go/Utilizar MySQL en Go.md",
-    "Dev/Backend/Go/Crear un proyecto en Go.md",
-    "Dev/Projects/GYMSTRATOR/Fases/Entidades y relaciones para la fase 1.md",
-    "Dev/Projects/GYMSTRATOR/GYMSTRATOR.md",
-    "Dev/Projects/GYMSTRATOR/Entidades/Funcionalidades.md",
-    "Dev/Projects/GYMSTRATOR/Fases/Fase 1 - Funcionalidades Básicas.md",
-    "Dev/Projects/GYMSTRATOR/Entidades/Usuarios.md",
-    "Dev/Projects/GYMSTRATOR/Entidades/Membresías.md",
-    "Dev/Projects/GYMSTRATOR/Entidades/Contrataciones y Renovaciones.md",
-    "Dev/Projects/GYMSTRATOR/Entidades/Bitácora de ingresos.md",
-    "Dev/Containers/Manejo de volúmenes.md",
-    "Dev/Learnings/Alacritty.md",
+    "Dev/Falabella/APIs a nullplatform/Modificar las URLs de otros servicios a los que el servicio llama en sus configuraciones de ambiente (local, dev, qa, prod), esto mediante variables de entorno que se agregaran en el stack..md",
     "Dev/Version Control/Git.md",
     "Dev/Version Control/Stash.md",
-    "Dev/Version Control/Subir archivos al repositorio.md",
-    "Dev/Version Control/Rebase.md",
-    "Dev/Version Control/Crear o eliminar una rama local y remota.md",
-    "Dev/Version Control/Iniciar un nuevo repositorio git.md",
+    "Dev/Falabella/APIs a nullplatform",
+    "Dev/Falabella/Kong",
+    "Dev/Falabella",
     "Dev/Backend/Go",
     "Dev/Projects/GYMSTRATOR/Entidades",
     "Dev/Projects/GYMSTRATOR/Fases",
@@ -175,9 +223,6 @@
     "Dev/Projects/GYMSTRATOR/Usuarios",
     "Dev/Projects/GYMSTRATOR",
     "Dev/Version Control",
-    "Files",
-    "Bucket",
-    "Dev/Learnings",
     "Untitled.canvas"
   ]
 }

@@ -5,3 +5,5 @@ Aprendizaje de Git.
 - [[Crear o eliminar una rama local y remota]]
 - [[Stash]]
 - [[Rebase]]
+- [[Hacer squash de commits]]
+- [[Modificar el mensaje de ultimo commit hecho]]
