@@ -1,0 +1,23 @@
+#### Realizar los siguientes cambios en el servicio manager:
+- Migrar los archivos del ingress (y sus respectivos archivos de test unitarios):
+	- Handlers.
+	- Middlewares.
+	- Schemas.
+	- Context newman.
+- Agregar los nuevos middlewares en el context default.
+- Cambiar el uso de 'setResponseRaw' por 'sendResponse' en los archivos que se requiera y corregir los test unitarios.
+- Agregar en los archivos de enviroments las domainWhiteList y las variables que puedan estar en los del ingress.
+- Actualizar app.js con:
+	- Soporte para RSA_2048_PRIV.
+	- Soporte para DataDog.
+	- Soporte para domainWhiteList y CORS.
+	- Modificar las rutas del healtcheck y de endpoints en general.
+- Modificar package.json:
+	- Agregar script local-newman (del ingress).
+	- Actualizar los scripts de test, coverage y lcov.
+	- Agregar y actualizar dependencias.
+	- Agregar sección de overrides.
+- Actualizar postman collection.
+#### Rewards-card-manager MRs:
+- Migración de la ingress (incompleto, faltaban cosas que se hicieron en el MR de abajo): https://gitlab.falabella.tech/fif/canales-digitales/portafolio-ventas/onboarding/mexico/mx-onboarding-rewards-card-manager/-/merge_requests/38/diffs#7030d0b2f71b999ff89a343de08c414af32fc93a
+- Soporte para nullplatform: https://gitlab.falabella.tech/fif/canales-digitales/portafolio-ventas/onboarding/mexico/mx-onboarding-rewards-card-manager/-/merge_requests/39#bde78f313e5e4d0170c8da4a22e81290f67a0dd7

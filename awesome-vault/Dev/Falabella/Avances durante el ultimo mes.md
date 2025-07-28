@@ -1,0 +1,18 @@
+- Migracion a nullplatform de rewards-card haber hecho las pruebas y el deploy a QA
+	- Se esta trabajando en mitigar las vulnerabilidades
+- Pase a produccion 1.49.0
+- Refinamiento de producto VIP (banckend)
+- Refinamiento de producto garantizado (backend)
+	- Haber realizado casi todas las tareas de esta misma HU
+- Migracion a nullplatform de login-manager
+	- Se hizo la fusion de ingress en la manager
+	- Esta configurado los scopes y variables de entorno en nullplatform
+	- Estan hechas las configuraciones de stack test, qa y prod
+	- Estan hechas las configuraciones de balanceo en kong test, qa y prod
+	- Se realizo junto a adrian en analisis del cambio de redis por la store-manager
+	- Actualmente en portainer esta la login-manager fusionada con la ingress, trabajando de manera correcta
+	- Se acaban de realizar las correcciones para mitigar las vulnerabilidades (solo queda la mockery)
+- Refinamiento de client-manager para migracion a null
+	- Revise status en nullplatform y tambien en el repo
+- Refinamiento de product-manager para migracion a null
+	- Revise status en nullplaform y tambien en el repo

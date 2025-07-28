@@ -1,0 +1,35 @@
+- [x] apis_application_ingress
+- [x] apis_application_manager
+- [ ] apis_backend-passthrough
+- [ ] apis_biometric_auth_ingress
+- [x] apis_client_ingress
+- [x] apis_client_manager
+- [x] apis_customer_identity_ingress
+- [x] apis_customer_identity_manager
+- [x] apis_document_ingress
+- [x] apis_document_manager
+- [x] apis_evaluate_ingress
+- [x] apis_evaluate_manager
+- [x] apis_external_auth_ingress
+- [x] apis_external_auth_manager
+- [ ] apis_file_ingress
+- [ ] apis_file_manager
+- [ ] apis_file_storage
+- [x] apis_fraud_ingress
+- [x] apis_fraud_manager
+- [ ] apis_incode_ingress
+- [ ] apis_incode_manager
+- [ ] apis_location
+- [x] apis_login_ingress
+- [x] apis_login_manager
+- [x] apis_marketing_api
+- [x] apis_office_ingress
+- [x] apis_office_manager
+- [ ] apis_omni2_biometric_auth_ingress
+- [x] apis_prevent_fraud_ingress
+- [x] apis_prevent_fraud_manager
+- [x] apis_product_ingress
+- [x] apis_product_manager
+- [ ] apis_redis
+- [x] apis_rewards_card_ingress
+- [x] apis_rewards_card_manager

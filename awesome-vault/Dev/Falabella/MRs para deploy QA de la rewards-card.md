@@ -1,0 +1,3 @@
+https://gitlab.falabella.tech/fif/canales-digitales/portafolio-ventas/onboarding/mexico/mx-onboarding-stack-deploy/-/merge_requests/337
+https://gitlab.falabella.tech/fif/canales-digitales/portafolio-ventas/onboarding/mexico/mx-onboarding-stack-deploy/-/merge_requests/277
+https://gitlab.falabella.tech/fif/canales-digitales/portafolio-ventas/onboarding/mexico/cmr-mx-onboarding-qa-kong-config-terraform/-/merge_requests/43
